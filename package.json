@@ -57,7 +57,7 @@
     "prop-detect": "^1.1.0",
     "radio-component": "0.0.2",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react-dom": "^16.0.1",
     "throttleit": "^1.0.0"
   },
   "devDependencies": {
