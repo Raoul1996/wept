@@ -40,7 +40,7 @@
     "faye-websocket": "^0.11.0",
     "glob": "^7.1.0",
     "growl": "^1.9.2",
-    "koa": "^1.2.4",
+    "koa": "^2.16.1",
     "koa-body": "^1.6.0",
     "koa-compress": "^1.0.9",
     "koa-formidable": "^1.0.0",
